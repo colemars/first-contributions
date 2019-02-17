@@ -56,8 +56,8 @@ Conor Shields (https://github.com/cshields236)
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - Jason K
--Simon ACosta 
-  [Parasseril kevin Sunny](https://github.com/kevinsunny199 
+-Simon ACosta
+  [Parasseril kevin Sunny](https://github.com/kevinsunny199
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [E Eigbe](https://github.com/Eghonghonaye)
 - [Ivor Hill](https://github.com/ivorhill)
@@ -5534,6 +5534,7 @@ Conor Shields (https://github.com/cshields236)
 - [Alexander Swerdlow](https://github.com/aswerdlow935)
 - [Gabriel Araujo](https://github.com/gabrielaraujof)
 - [Jeff Thompson](https://github.com/jello7654)
+- [Cole Marsteller](https://github.com/colemars)
 - [Shannu Ali](https://github.com/zeroxenator)
 - [Ruslan Posevkin](https://github.com/rusposevkin)
 - [Ruslan Ignatjev](https://github.com/Sylphyyy)
